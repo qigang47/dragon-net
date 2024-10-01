@@ -1,0 +1,137 @@
+2024-01-16 13:23:49,498 Epoch: 1. Train Loss:0.42372. Valid Loss:0.64902. Train Acc:78.65000 Valid Acc:76.17500
+2024-01-16 13:38:25,013 Epoch: 2. Train Loss:0.38393. Valid Loss:0.43866. Train Acc:79.94167 Valid Acc:79.72500
+2024-01-16 13:52:10,134 Epoch: 3. Train Loss:0.35583. Valid Loss:0.38966. Train Acc:81.66667 Valid Acc:81.07500
+2024-01-16 14:05:30,389 Epoch: 4. Train Loss:0.34822. Valid Loss:0.47030. Train Acc:81.68333 Valid Acc:80.15000
+2024-01-16 14:28:08,901 Epoch: 5. Train Loss:0.32078. Valid Loss:0.37079. Train Acc:83.55000 Valid Acc:82.22500
+2024-01-16 14:50:11,199 Epoch: 6. Train Loss:0.31314. Valid Loss:0.51014. Train Acc:83.95833 Valid Acc:79.22500
+2024-01-16 15:10:55,327 Epoch: 7. Train Loss:0.30322. Valid Loss:0.60720. Train Acc:84.41667 Valid Acc:79.27500
+2024-01-16 15:32:27,966 Epoch: 8. Train Loss:0.29376. Valid Loss:0.47817. Train Acc:84.72500 Valid Acc:81.02500
+2024-01-16 15:52:23,050 Epoch: 9. Train Loss:0.29201. Valid Loss:0.43618. Train Acc:85.05000 Valid Acc:81.15000
+2024-01-16 16:12:11,228 Epoch: 10. Train Loss:0.28570. Valid Loss:0.44262. Train Acc:85.27500 Valid Acc:81.85000
+2024-01-16 16:31:21,848 Epoch: 11. Train Loss:0.27594. Valid Loss:0.35701. Train Acc:85.77500 Valid Acc:83.27500
+2024-01-16 16:50:55,890 Epoch: 12. Train Loss:0.27089. Valid Loss:0.43074. Train Acc:86.54167 Valid Acc:82.47500
+2024-01-16 17:10:53,899 Epoch: 13. Train Loss:0.26690. Valid Loss:0.33984. Train Acc:86.34167 Valid Acc:83.70000
+2024-01-16 17:28:52,995 Epoch: 14. Train Loss:0.27174. Valid Loss:0.34217. Train Acc:86.03333 Valid Acc:83.75000
+2024-01-16 17:44:16,368 Epoch: 15. Train Loss:0.26238. Valid Loss:0.43278. Train Acc:86.74167 Valid Acc:82.52500
+2024-01-16 17:58:31,476 Epoch: 16. Train Loss:0.25841. Valid Loss:0.46674. Train Acc:86.95000 Valid Acc:81.60000
+2024-01-16 18:13:00,738 Epoch: 17. Train Loss:0.24623. Valid Loss:0.48568. Train Acc:87.76667 Valid Acc:81.90000
+2024-06-02 00:42:39,575 Epoch: 1. Train Loss:0.60856. Valid Loss:0.69669. Train Acc:65.74000 Valid Acc:56.65468 fnr fnr: 0.06115fpr fpr: 0.80576
+2024-06-02 02:24:08,245 Epoch: 2. Train Loss:0.55798. Valid Loss:0.66254. Train Acc:72.52000 Valid Acc:61.15108 fnr fnr: 0.16187fpr fpr: 0.61511
+2024-06-02 04:02:39,899 Epoch: 3. Train Loss:0.52856. Valid Loss:0.62798. Train Acc:75.95000 Valid Acc:65.46763 fnr fnr: 0.10432fpr fpr: 0.58633
+2024-06-02 05:36:00,669 Epoch: 4. Train Loss:0.51164. Valid Loss:0.62186. Train Acc:77.81000 Valid Acc:66.18705 fnr fnr: 0.20144fpr fpr: 0.47482
+2024-06-03 07:27:34,844 Epoch: 5. Train Loss:0.50253. Valid Loss:0.69308. Train Acc:78.98000 Valid Acc:58.81295 fnr fnr: 0.64388fpr fpr: 0.17986
+2024-06-03 07:45:09,818 Epoch: 6. Train Loss:0.48259. Valid Loss:0.65735. Train Acc:81.09000 Valid Acc:63.12950 fnr fnr: 0.14748fpr fpr: 0.58993
+2024-06-03 08:00:23,881 Epoch: 7. Train Loss:0.47072. Valid Loss:0.66260. Train Acc:82.53000 Valid Acc:63.30935 fnr fnr: 0.15827fpr fpr: 0.57554
+2024-06-03 08:21:11,180 Epoch: 8. Train Loss:0.46344. Valid Loss:0.75919. Train Acc:83.45500 Valid Acc:54.31655 fnr fnr: 0.81295fpr fpr: 0.10072
+2024-06-03 08:41:15,106 Epoch: 9. Train Loss:0.45060. Valid Loss:0.63605. Train Acc:84.67000 Valid Acc:65.28777 fnr fnr: 0.33453fpr fpr: 0.35971
+2024-06-03 08:58:23,681 Epoch: 10. Train Loss:0.43718. Valid Loss:0.72080. Train Acc:86.28500 Valid Acc:57.55396 fnr fnr: 0.74101fpr fpr: 0.10791
+2024-06-03 19:40:03,870 Epoch: 11. Train Loss:0.50415. Valid Loss:0.70167. Train Acc:79.06500 Valid Acc:58.27338 fnr fnr: 0.03957fpr fpr: 0.79496
+2024-06-03 20:48:40,164 Epoch: 12. Train Loss:0.47561. Valid Loss:0.58639. Train Acc:82.01500 Valid Acc:69.24460 fnr fnr: 0.15108fpr fpr: 0.46403
+2024-06-03 21:40:40,380 Epoch: 13. Train Loss:0.46902. Valid Loss:0.65302. Train Acc:82.72000 Valid Acc:64.56835 fnr fnr: 0.58273fpr fpr: 0.12590
+2024-06-03 23:37:54,653 Epoch: 14. Train Loss:0.46364. Valid Loss:0.69077. Train Acc:83.39500 Valid Acc:60.43165 fnr fnr: 0.67986fpr fpr: 0.11151
+2024-06-04 00:47:46,208 Epoch: 15. Train Loss:0.45885. Valid Loss:0.70893. Train Acc:83.83500 Valid Acc:59.35252 fnr fnr: 0.78417fpr fpr: 0.02878
+2024-06-04 08:30:43,070 Epoch: 16. Train Loss:0.35308. Valid Loss:0.70146. Train Acc:95.82084 Valid Acc:61.15108 fnr fnr: 0.62230fpr fpr: 0.15468
+2024-06-04 09:14:35,808 Epoch: 17. Train Loss:0.43615. Valid Loss:0.61035. Train Acc:86.89500 Valid Acc:68.70504 fnr fnr: 0.35971fpr fpr: 0.26619
+2024-06-04 09:44:03,270 Epoch: 18. Train Loss:0.40574. Valid Loss:0.71566. Train Acc:89.92500 Valid Acc:59.35252 fnr fnr: 0.76259fpr fpr: 0.05036
+2024-06-04 10:05:01,949 Epoch: 19. Train Loss:0.39783. Valid Loss:0.67681. Train Acc:90.87500 Valid Acc:61.87050 fnr fnr: 0.16547fpr fpr: 0.59712
+2024-06-04 10:20:20,719 Epoch: 20. Train Loss:0.39462. Valid Loss:0.62580. Train Acc:91.17000 Valid Acc:66.90647 fnr fnr: 0.26978fpr fpr: 0.39209
+2024-06-04 10:36:05,041 Epoch: 21. Train Loss:0.38795. Valid Loss:0.69454. Train Acc:91.97500 Valid Acc:60.79137 fnr fnr: 0.13669fpr fpr: 0.64748
+2024-06-04 11:53:59,018 Epoch: 22. Train Loss:0.38658. Valid Loss:0.67916. Train Acc:92.22500 Valid Acc:62.23022 fnr fnr: 0.63669fpr fpr: 0.11871
+2024-06-04 12:07:19,315 Epoch: 23. Train Loss:0.38057. Valid Loss:0.58255. Train Acc:92.77000 Valid Acc:71.40288 fnr fnr: 0.35252fpr fpr: 0.21942
+2024-06-04 12:20:41,403 Epoch: 24. Train Loss:0.38116. Valid Loss:0.67079. Train Acc:92.74500 Valid Acc:62.41007 fnr fnr: 0.56115fpr fpr: 0.19065
+2024-06-04 12:33:04,486 Epoch: 25. Train Loss:0.37675. Valid Loss:0.64521. Train Acc:93.32500 Valid Acc:66.18705 fnr fnr: 0.53237fpr fpr: 0.14388
+2024-06-04 12:45:19,073 Epoch: 26. Train Loss:0.37131. Valid Loss:0.62579. Train Acc:93.87000 Valid Acc:68.16547 fnr fnr: 0.30576fpr fpr: 0.33094
+2024-06-04 12:57:33,257 Epoch: 27. Train Loss:0.36872. Valid Loss:0.62273. Train Acc:94.16500 Valid Acc:67.62590 fnr fnr: 0.50360fpr fpr: 0.14388
+2024-06-04 13:09:47,785 Epoch: 28. Train Loss:0.36809. Valid Loss:0.63267. Train Acc:94.31000 Valid Acc:66.54676 fnr fnr: 0.50360fpr fpr: 0.16547
+2024-06-04 13:22:01,332 Epoch: 29. Train Loss:0.36245. Valid Loss:0.61462. Train Acc:94.90500 Valid Acc:69.42446 fnr fnr: 0.39209fpr fpr: 0.21942
+2024-06-04 13:34:13,780 Epoch: 30. Train Loss:0.35129. Valid Loss:0.61862. Train Acc:96.06000 Valid Acc:69.24460 fnr fnr: 0.34532fpr fpr: 0.26978
+2024-06-04 13:46:25,153 Epoch: 31. Train Loss:0.34533. Valid Loss:0.63481. Train Acc:96.81000 Valid Acc:67.44604 fnr fnr: 0.48201fpr fpr: 0.16906
+2024-06-04 13:58:38,207 Epoch: 32. Train Loss:0.34278. Valid Loss:0.59398. Train Acc:97.05500 Valid Acc:71.04317 fnr fnr: 0.40288fpr fpr: 0.17626
+2024-06-04 14:10:52,852 Epoch: 33. Train Loss:0.34551. Valid Loss:0.61429. Train Acc:96.68500 Valid Acc:68.88489 fnr fnr: 0.46403fpr fpr: 0.15827
+2024-06-04 14:23:06,085 Epoch: 34. Train Loss:0.34054. Valid Loss:0.62559. Train Acc:97.28500 Valid Acc:67.26619 fnr fnr: 0.47482fpr fpr: 0.17986
+2024-06-04 14:35:18,475 Epoch: 35. Train Loss:0.34049. Valid Loss:0.65293. Train Acc:97.22000 Valid Acc:65.28777 fnr fnr: 0.39568fpr fpr: 0.29856
+2024-06-04 14:47:31,063 Epoch: 36. Train Loss:0.34001. Valid Loss:0.65849. Train Acc:97.28500 Valid Acc:64.38849 fnr fnr: 0.60432fpr fpr: 0.10791
+2024-06-04 14:59:45,840 Epoch: 37. Train Loss:0.34094. Valid Loss:0.59081. Train Acc:97.16500 Valid Acc:71.22302 fnr fnr: 0.38129fpr fpr: 0.19424
+2024-06-04 15:12:01,372 Epoch: 38. Train Loss:0.33974. Valid Loss:0.62347. Train Acc:97.34500 Valid Acc:68.70504 fnr fnr: 0.50360fpr fpr: 0.12230
+2024-06-04 15:24:22,164 Epoch: 39. Train Loss:0.33882. Valid Loss:0.62180. Train Acc:97.39500 Valid Acc:68.70504 fnr fnr: 0.49640fpr fpr: 0.12950
+2024-06-04 15:36:36,140 Epoch: 40. Train Loss:0.33638. Valid Loss:0.60372. Train Acc:97.64000 Valid Acc:70.68345 fnr fnr: 0.44964fpr fpr: 0.13669
+2024-06-04 15:48:51,264 Epoch: 41. Train Loss:0.33902. Valid Loss:0.60785. Train Acc:97.37500 Valid Acc:69.78417 fnr fnr: 0.43525fpr fpr: 0.16906
+2024-06-04 16:01:06,596 Epoch: 42. Train Loss:0.33640. Valid Loss:0.59134. Train Acc:97.68500 Valid Acc:71.76259 fnr fnr: 0.34173fpr fpr: 0.22302
+2024-06-04 16:13:25,219 Epoch: 43. Train Loss:0.33661. Valid Loss:0.62298. Train Acc:97.64500 Valid Acc:67.26619 fnr fnr: 0.50360fpr fpr: 0.15108
+2024-06-04 16:25:51,507 Epoch: 44. Train Loss:0.33503. Valid Loss:0.63062. Train Acc:97.82000 Valid Acc:67.62590 fnr fnr: 0.53957fpr fpr: 0.10791
+2024-06-04 16:38:33,897 Epoch: 45. Train Loss:0.33628. Valid Loss:0.65781. Train Acc:97.69000 Valid Acc:64.74820 fnr fnr: 0.58273fpr fpr: 0.12230
+2024-06-04 16:51:33,686 Epoch: 46. Train Loss:0.33566. Valid Loss:0.58841. Train Acc:97.72500 Valid Acc:71.76259 fnr fnr: 0.33453fpr fpr: 0.23022
+2024-06-04 17:04:35,832 Epoch: 47. Train Loss:0.33420. Valid Loss:0.58119. Train Acc:97.87000 Valid Acc:72.30216 fnr fnr: 0.35252fpr fpr: 0.20144
+2024-06-04 17:19:29,603 Epoch: 48. Train Loss:0.33452. Valid Loss:0.65034. Train Acc:97.83500 Valid Acc:65.82734 fnr fnr: 0.56475fpr fpr: 0.11871
+2024-06-04 17:37:28,925 Epoch: 49. Train Loss:0.33352. Valid Loss:0.56927. Train Acc:97.94000 Valid Acc:74.10072 fnr fnr: 0.31295fpr fpr: 0.20504
+2024-06-04 17:56:15,169 Epoch: 50. Train Loss:0.33295. Valid Loss:0.65359. Train Acc:98.10000 Valid Acc:65.10791 fnr fnr: 0.56835fpr fpr: 0.12950
+2024-06-04 18:13:05,031 Epoch: 51. Train Loss:0.33356. Valid Loss:0.62051. Train Acc:97.92000 Valid Acc:68.70504 fnr fnr: 0.47482fpr fpr: 0.15108
+2024-06-04 18:27:04,093 Epoch: 52. Train Loss:0.33374. Valid Loss:0.61944. Train Acc:97.94000 Valid Acc:69.24460 fnr fnr: 0.47842fpr fpr: 0.13669
+2024-06-04 18:41:06,641 Epoch: 53. Train Loss:0.33319. Valid Loss:0.64017. Train Acc:97.94000 Valid Acc:66.36691 fnr fnr: 0.51079fpr fpr: 0.16187
+2024-06-04 18:55:10,073 Epoch: 54. Train Loss:0.33332. Valid Loss:0.62892. Train Acc:97.93000 Valid Acc:67.44604 fnr fnr: 0.53237fpr fpr: 0.11871
+2024-06-04 19:09:05,520 Epoch: 55. Train Loss:0.33223. Valid Loss:0.61489. Train Acc:98.09000 Valid Acc:68.70504 fnr fnr: 0.47482fpr fpr: 0.15108
+2024-06-04 19:23:05,218 Epoch: 56. Train Loss:0.33233. Valid Loss:0.66045. Train Acc:98.14500 Valid Acc:64.20863 fnr fnr: 0.58993fpr fpr: 0.12590
+2024-06-04 19:37:32,058 Epoch: 57. Train Loss:0.33099. Valid Loss:0.61999. Train Acc:98.26500 Valid Acc:68.70504 fnr fnr: 0.43885fpr fpr: 0.18705
+2024-06-04 19:52:45,492 Epoch: 58. Train Loss:0.33095. Valid Loss:0.61762. Train Acc:98.21500 Valid Acc:68.88489 fnr fnr: 0.48921fpr fpr: 0.13309
+2024-06-04 20:07:28,168 Epoch: 59. Train Loss:0.33091. Valid Loss:0.62705. Train Acc:98.26500 Valid Acc:67.80576 fnr fnr: 0.51439fpr fpr: 0.12950
+2024-06-04 20:21:55,729 Epoch: 60. Train Loss:0.32909. Valid Loss:0.60396. Train Acc:98.46000 Valid Acc:70.86331 fnr fnr: 0.42086fpr fpr: 0.16187
+2024-06-05 15:49:55,447 Epoch: 1. Train Loss:0.65423. Valid Loss:0.66246. Train Acc:59.08655 Valid Acc:60.17994 fnr fnr: 0.69244fpr fpr: 0.10397
+2024-06-05 16:40:39,028 Epoch: 2. Train Loss:0.62333. Valid Loss:0.66612. Train Acc:64.44064 Valid Acc:61.32956 fnr fnr: 0.47318fpr fpr: 0.30023
+2024-06-05 17:30:23,771 Epoch: 3. Train Loss:0.60745. Valid Loss:0.67126. Train Acc:66.29770 Valid Acc:61.56281 fnr fnr: 0.61946fpr fpr: 0.14928
+2024-06-05 18:20:34,609 Epoch: 4. Train Loss:0.59023. Valid Loss:0.62052. Train Acc:68.55431 Valid Acc:66.01133 fnr fnr: 0.29657fpr fpr: 0.38321
+2024-06-05 19:27:55,674 Epoch: 5. Train Loss:0.57909. Valid Loss:0.69820. Train Acc:70.01080 Valid Acc:58.18061 fnr fnr: 0.45352fpr fpr: 0.38287
+2024-06-05 20:19:34,589 Epoch: 6. Train Loss:0.56449. Valid Loss:0.55367. Train Acc:71.68440 Valid Acc:73.62546 fnr fnr: 0.13595fpr fpr: 0.39154
+2024-06-05 21:11:47,663 Epoch: 7. Train Loss:0.55681. Valid Loss:0.70925. Train Acc:72.68938 Valid Acc:57.54748 fnr fnr: 0.69810fpr fpr: 0.15095
+2024-06-05 22:03:50,999 Epoch: 8. Train Loss:0.54829. Valid Loss:0.52381. Train Acc:73.63829 Valid Acc:76.19127 fnr fnr: 0.34888fpr fpr: 0.12729
+2024-06-05 22:55:37,448 Epoch: 9. Train Loss:0.53976. Valid Loss:0.50618. Train Acc:74.58721 Valid Acc:78.50716 fnr fnr: 0.21659fpr fpr: 0.21326
+2024-06-05 23:48:00,158 Epoch: 10. Train Loss:0.53184. Valid Loss:0.61556. Train Acc:75.66455 Valid Acc:67.49417 fnr fnr: 0.57614fpr fpr: 0.07398
+2024-06-06 00:42:10,078 Epoch: 11. Train Loss:0.52244. Valid Loss:0.62460. Train Acc:76.63487 Valid Acc:66.71110 fnr fnr: 0.52183fpr fpr: 0.14395
+2024-06-06 01:33:42,562 Epoch: 12. Train Loss:0.52183. Valid Loss:0.60285. Train Acc:76.95083 Valid Acc:68.37721 fnr fnr: 0.48051fpr fpr: 0.15195
+2024-06-06 02:27:23,752 Epoch: 13. Train Loss:0.51413. Valid Loss:0.55566. Train Acc:77.70303 Valid Acc:73.90870 fnr fnr: 0.08597fpr fpr: 0.43585
+2024-06-06 03:20:37,494 Epoch: 14. Train Loss:0.50837. Valid Loss:0.55806. Train Acc:78.36860 Valid Acc:73.27557 fnr fnr: 0.17328fpr fpr: 0.36121
+2024-06-06 04:12:05,884 Epoch: 15. Train Loss:0.50283. Valid Loss:0.55853. Train Acc:79.07697 Valid Acc:73.69210 fnr fnr: 0.32423fpr fpr: 0.20193
+2024-06-06 05:02:40,386 Epoch: 16. Train Loss:0.49800. Valid Loss:0.64161. Train Acc:79.64571 Valid Acc:65.26158 fnr fnr: 0.60180fpr fpr: 0.09297
+2024-06-06 05:53:17,691 Epoch: 17. Train Loss:0.49524. Valid Loss:0.59477. Train Acc:79.81491 Valid Acc:69.97667 fnr fnr: 0.53249fpr fpr: 0.06798
+2024-06-06 06:43:39,750 Epoch: 18. Train Loss:0.48584. Valid Loss:0.52771. Train Acc:81.01048 Valid Acc:76.69110 fnr fnr: 0.14995fpr fpr: 0.31623
+2024-06-06 07:33:58,657 Epoch: 19. Train Loss:0.48449. Valid Loss:0.67560. Train Acc:81.11546 Valid Acc:61.74608 fnr fnr: 0.68644fpr fpr: 0.07864
+2024-06-06 08:24:20,202 Epoch: 20. Train Loss:0.47907. Valid Loss:0.60709. Train Acc:81.76879 Valid Acc:68.97701 fnr fnr: 0.47851fpr fpr: 0.14195
+2024-06-06 09:14:39,234 Epoch: 21. Train Loss:0.47813. Valid Loss:0.53876. Train Acc:82.04297 Valid Acc:75.77474 fnr fnr: 0.35721fpr fpr: 0.12729
+2024-06-06 10:05:03,407 Epoch: 22. Train Loss:0.47233. Valid Loss:0.54128. Train Acc:82.43232 Valid Acc:75.40820 fnr fnr: 0.09763fpr fpr: 0.39420
+2024-06-06 10:55:27,740 Epoch: 23. Train Loss:0.46949. Valid Loss:0.48809. Train Acc:82.79517 Valid Acc:81.10630 fnr fnr: 0.12163fpr fpr: 0.25625
+2024-06-06 11:46:08,735 Epoch: 24. Train Loss:0.46597. Valid Loss:0.51946. Train Acc:82.95825 Valid Acc:77.80740 fnr fnr: 0.25791fpr fpr: 0.18594
+2024-06-06 13:19:21,128 Epoch: 25. Train Loss:0.46041. Valid Loss:0.54931. Train Acc:83.80932 Valid Acc:74.57514 fnr fnr: 0.40853fpr fpr: 0.09997
+2024-06-06 14:10:30,034 Epoch: 26. Train Loss:0.46066. Valid Loss:0.63790. Train Acc:83.76957 Valid Acc:65.72809 fnr fnr: 0.59613fpr fpr: 0.08930
+2024-06-06 15:18:44,314 Epoch: 27. Train Loss:0.45408. Valid Loss:0.51679. Train Acc:84.61146 Valid Acc:78.10730 fnr fnr: 0.33889fpr fpr: 0.09897
+2024-06-06 16:34:43,781 Epoch: 28. Train Loss:0.45621. Valid Loss:0.47349. Train Acc:84.19765 Valid Acc:82.60580 fnr fnr: 0.12962fpr fpr: 0.21826
+2024-06-06 17:29:14,354 Epoch: 29. Train Loss:0.44690. Valid Loss:0.52369. Train Acc:85.45234 Valid Acc:77.35755 fnr fnr: 0.32289fpr fpr: 0.12996
+2024-06-06 18:22:38,323 Epoch: 30. Train Loss:0.43028. Valid Loss:0.59466. Train Acc:87.25130 Valid Acc:70.34322 fnr fnr: 0.52249fpr fpr: 0.07064
+2024-06-06 19:16:15,404 Epoch: 31. Train Loss:0.42051. Valid Loss:0.46628. Train Acc:88.19920 Valid Acc:83.62213 fnr fnr: 0.19194fpr fpr: 0.13562
+2024-06-06 20:17:41,198 Epoch: 32. Train Loss:0.42140. Valid Loss:0.53442. Train Acc:88.27564 Valid Acc:76.77441 fnr fnr: 0.35355fpr fpr: 0.11096
+2024-06-06 22:04:33,007 Epoch: 33. Train Loss:0.41886. Valid Loss:0.47042. Train Acc:88.41426 Valid Acc:83.13895 fnr fnr: 0.16828fpr fpr: 0.16894
+2024-06-06 23:43:23,282 Epoch: 34. Train Loss:0.41729. Valid Loss:0.48029. Train Acc:88.76080 Valid Acc:82.03932 fnr fnr: 0.24958fpr fpr: 0.10963
+2024-06-07 00:49:35,741 Epoch: 35. Train Loss:0.41080. Valid Loss:0.48420. Train Acc:89.18889 Valid Acc:82.02266 fnr fnr: 0.21593fpr fpr: 0.14362
+2024-06-07 01:43:28,133 Epoch: 36. Train Loss:0.41128. Valid Loss:0.50875. Train Acc:89.23169 Valid Acc:79.07364 fnr fnr: 0.29024fpr fpr: 0.12829
+2024-06-07 02:39:35,643 Epoch: 37. Train Loss:0.41205. Valid Loss:0.48934. Train Acc:89.30610 Valid Acc:81.23959 fnr fnr: 0.23026fpr fpr: 0.14495
+2024-06-07 03:32:56,148 Epoch: 38. Train Loss:0.40687. Valid Loss:0.47878. Train Acc:89.88095 Valid Acc:82.25591 fnr fnr: 0.22826fpr fpr: 0.12662
+2024-06-07 04:26:23,311 Epoch: 39. Train Loss:0.40675. Valid Loss:0.51762. Train Acc:89.78107 Valid Acc:78.34055 fnr fnr: 0.32822fpr fpr: 0.10497
+2024-06-07 05:45:05,853 Epoch: 40. Train Loss:0.40851. Valid Loss:0.48116. Train Acc:89.58129 Valid Acc:82.07264 fnr fnr: 0.23026fpr fpr: 0.12829
+2024-06-07 06:38:20,306 Epoch: 41. Train Loss:0.40574. Valid Loss:0.54199. Train Acc:89.89522 Valid Acc:75.82473 fnr fnr: 0.37687fpr fpr: 0.10663
+2024-06-07 07:30:47,506 Epoch: 42. Train Loss:0.40477. Valid Loss:0.47114. Train Acc:90.09499 Valid Acc:83.27224 fnr fnr: 0.19893fpr fpr: 0.13562
+2024-06-07 08:23:22,366 Epoch: 43. Train Loss:0.40276. Valid Loss:0.52320. Train Acc:90.38038 Valid Acc:77.75741 fnr fnr: 0.34855fpr fpr: 0.09630
+2024-06-07 09:15:52,315 Epoch: 44. Train Loss:0.40149. Valid Loss:0.57210. Train Acc:90.33757 Valid Acc:72.54249 fnr fnr: 0.46085fpr fpr: 0.08830
+2024-06-07 10:08:29,940 Epoch: 45. Train Loss:0.40245. Valid Loss:0.46759. Train Acc:90.37834 Valid Acc:83.65545 fnr fnr: 0.19060fpr fpr: 0.13629
+2024-06-07 11:01:00,578 Epoch: 46. Train Loss:0.39907. Valid Loss:0.54851. Train Acc:90.60665 Valid Acc:75.04165 fnr fnr: 0.40420fpr fpr: 0.09497
+2024-06-07 11:53:35,267 Epoch: 47. Train Loss:0.39817. Valid Loss:0.46843. Train Acc:90.76158 Valid Acc:83.58880 fnr fnr: 0.15362fpr fpr: 0.17461
+2024-06-07 12:46:08,810 Epoch: 48. Train Loss:0.39523. Valid Loss:0.50001. Train Acc:91.10099 Valid Acc:80.10663 fnr fnr: 0.30890fpr fpr: 0.08897
+2024-06-07 13:54:11,259 Epoch: 49. Train Loss:0.39888. Valid Loss:0.49385. Train Acc:90.94912 Valid Acc:80.87304 fnr fnr: 0.26958fpr fpr: 0.11296
+2024-06-07 14:48:19,950 Epoch: 50. Train Loss:0.39461. Valid Loss:0.58283. Train Acc:91.08977 Valid Acc:71.72609 fnr fnr: 0.47984fpr fpr: 0.08564
+2024-06-07 15:42:12,340 Epoch: 51. Train Loss:0.39325. Valid Loss:0.53816. Train Acc:91.34866 Valid Acc:76.14129 fnr fnr: 0.38720fpr fpr: 0.08997
+2024-06-07 16:35:01,072 Epoch: 52. Train Loss:0.39263. Valid Loss:0.48164. Train Acc:91.52193 Valid Acc:81.78940 fnr fnr: 0.23159fpr fpr: 0.13262
+2024-06-07 17:27:43,270 Epoch: 53. Train Loss:0.39496. Valid Loss:0.50483. Train Acc:91.12239 Valid Acc:79.65678 fnr fnr: 0.29224fpr fpr: 0.11463
+2024-06-07 18:21:04,912 Epoch: 54. Train Loss:0.39193. Valid Loss:0.52735. Train Acc:91.44345 Valid Acc:77.40753 fnr fnr: 0.33056fpr fpr: 0.12129
+2024-06-07 19:14:39,129 Epoch: 55. Train Loss:0.39205. Valid Loss:0.46683. Train Acc:91.35580 Valid Acc:83.62213 fnr fnr: 0.19793fpr fpr: 0.12962
+2024-06-07 20:07:37,074 Epoch: 56. Train Loss:0.39082. Valid Loss:0.48597. Train Acc:91.63609 Valid Acc:81.97268 fnr fnr: 0.20526fpr fpr: 0.15528
+2024-06-07 21:01:19,170 Epoch: 57. Train Loss:0.39321. Valid Loss:0.46551. Train Acc:91.21718 Valid Acc:84.13862 fnr fnr: 0.19394fpr fpr: 0.12329
+2024-06-07 21:55:25,901 Epoch: 58. Train Loss:0.39019. Valid Loss:0.45232. Train Acc:91.75738 Valid Acc:85.20493 fnr fnr: 0.10863fpr fpr: 0.18727
+2024-06-07 22:51:29,125 Epoch: 59. Train Loss:0.38863. Valid Loss:0.50162. Train Acc:91.93371 Valid Acc:79.97334 fnr fnr: 0.29623fpr fpr: 0.10430
+2024-06-07 23:47:25,954 Epoch: 60. Train Loss:0.38166. Valid Loss:0.47430. Train Acc:92.72260 Valid Acc:82.92236 fnr fnr: 0.21993fpr fpr: 0.12163
